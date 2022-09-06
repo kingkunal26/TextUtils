@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../textutils2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js refreasher"
+	}
+}
